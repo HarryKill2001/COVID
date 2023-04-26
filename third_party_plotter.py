@@ -1,6 +1,5 @@
-# third_party_plotter.py
-
+# Implementación de la clase Third Party Plotter
 class ThirdPartyPlotter:
-    def plot_csv(self, file_path):
-        # Lógica para generar la imagen del gráfico a partir del archivo CSV
+    def plotData(self, csvData):
+        # Lógica para generar gráficos utilizando el csvData proporcionado
         pass
